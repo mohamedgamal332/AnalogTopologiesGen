@@ -360,20 +360,17 @@ Enable verbose logging by modifying the print statements in the source code or a
 - Validate generated netlists manually
 - Check error handling and edge cases
 
-## License
-
-[Add your license information here]
 
 ## Acknowledgments
 
 - Research papers in the `papers/` directory for theoretical foundations
 - OpenRouter for LLM API access
 - Open-source analog design community
+- EL Araby researach and development department
 
 ## Contact
 
-[Add contact information here]
-
+mohamednafel006@gmail.com
 ---
 
 **Note**: This system is designed for educational and research purposes. Generated circuits should be validated through simulation before implementation. 
