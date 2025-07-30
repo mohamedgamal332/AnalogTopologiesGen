@@ -1,0 +1,19 @@
+[
+  {
+    "id": "BIAS_SOURCE",
+    "block_type": "SimpleBiasN",
+    "connections": {
+      "i_out_bias": "BIAS_NET",
+      "pwr_gnd": "GND"
+    }
+  },
+  {
+    "id": "LED_DRIVER",
+    "block_type": "CurrentMirrorN_Load",
+    "connections": {
+      "i_in_ref": "BIAS_NET",
+      "i_out_load": "LED_NET",
+      "pwr_gnd": "GND"
+    }
+  }
+]

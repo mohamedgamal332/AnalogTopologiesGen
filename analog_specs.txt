@@ -1,0 +1,24 @@
+==================================================
+Analog Circuit Design Specifications
+Generated on: 2025-07-28 13:19:57
+==================================================
+
+Project Name:                            led circuit
+Circuit Type (e.g., OpAmp, LDO):         Not Specified
+Number of Stages:                        Not Specified
+Input Stage Type (e.g., Diff. Pair):     Not Specified
+Output Stage Type (e.g., Common Source): Not Specified
+Load Type (e.g., Active, Resistive):     Not Specified
+Compensation Type (e.g., Miller):        Not Specified
+Open-Loop Gain (dB):                     Not Specified
+Common-Mode Rejection Ratio (CMRR, dB):  Not Specified
+Power Supply Rejection Ratio (PSRR, dB): Not Specified
+Input Offset Voltage (mV):               Not Specified
+Gain-Bandwidth Product (MHz):            Not Specified
+Phase Margin (degrees):                  Not Specified
+Slew Rate (V/µs):                        Not Specified
+Settling Time (ns):                      Not Specified
+Total Power Consumption (mW):            Not Specified
+Supply Voltage (V):                      Not Specified
+Input-Referred Noise (nV/√Hz):           Not Specified
+Additional Notes or Requirements:        Not Specified
